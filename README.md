@@ -19,5 +19,8 @@ RadASM V2.x && MASM32 V6+
 
 ![运行截图](https://github.com/playGitboy/win32asm_usb_tool/blob/main/image/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png)
 
+## 注意事项
+程序默认会将识别到的可疑文件备份到`C:\Viruses`目录
+
 ## 待处理
 旧代码未更新，win10中可能热键注册失败导致无法呼出界面，待有空修复……
